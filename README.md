@@ -1,2 +1,3 @@
 # Axiom_Projects_JS
- Class Projects to learn Java Script
+This Repository will contain 20 projects 
+developed with HTML, CSS, and JavaScript. 
